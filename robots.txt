@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /chartdata/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /javascript/
+Disallow: /pages/
+Disallow: /stylesheets/
+Disallow: /captcha.php
